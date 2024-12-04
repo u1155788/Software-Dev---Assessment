@@ -13,4 +13,10 @@ result = a + b;
 
 void main(void) {
 result = a + b
+
+while(1)
+{
+//Incrementation
+result = result + 1;
+}
 }
