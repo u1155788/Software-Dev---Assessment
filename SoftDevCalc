@@ -1,0 +1,16 @@
+#include <xc.h>
+//Video 2
+// Define Variables
+int a = 5;
+int b = 6;
+int result;
+
+void sub(void)
+{
+//Calculation
+result = a + b;
+}
+
+void main(void) {
+result = a + b
+}
